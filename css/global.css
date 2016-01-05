@@ -238,7 +238,7 @@ body {
   font-size: 13px;
   line-height: 1.42857;
   color: #777777;
-  background-color: #fff; }
+  background-color: #87CEEB; }
 
 input,
 button,
@@ -5707,7 +5707,9 @@ body {
   height: 100%;
   line-height: 18px;
   font-size: 13px;
-  color: #777; }
+  color: #777;
+  background-color: #87CEEB;
+   }
   body.content_only {
     background: none;
     min-width: 0px;
@@ -5720,7 +5722,7 @@ textarea {
   z-index: 5003; }
 
 .columns-container {
-  background: #fff; }
+  /*background: #fff; }*/
 
 #columns {
   position: relative;
